@@ -1,6 +1,6 @@
-*#neural-network-challenge-2
+# neural-network-challenge-2
 
-# Employee Attrition Prediction and NLP Techniques
+## Employee Attrition Prediction and NLP Techniques
 
 ## Overview
 This repository contains a project focused on predicting employee attrition using machine learning techniques, as well as exploring advanced Natural Language Processing (NLP) methods, including topic modeling and recurrent neural networks (RNNs).
